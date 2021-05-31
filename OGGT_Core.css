@@ -364,7 +364,7 @@
 
 /*~~ 4. Font ~~*/
 @font-face {
-    src: url(https://tomrdh.github.io/da-website/fonts/Chakra%20Petch%20Regular%20400.ttf);
+    src: url(https://github.com/zeekii/discord-addons/blob/main/SquadaOne-Regular.ttf);
     font-family: "Squada One Regular";
 }
 :root {
